@@ -1,0 +1,25 @@
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\bin\Debug\ThreeDeusGUI.exe
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\bin\Debug\ThreeDeusGUI.pdb
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\bin\Debug\ThreeDeusGUI.xml
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Resources.resources
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.vbproj.GenerateResource.Cache
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.exe
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.xml
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.pdb
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Guides.resources
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Menu.resources
+C:\Users\lawre\AppData\Local\Temporary Projects\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Form1.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.exe
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.xml
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.pdb
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\bin\Debug\ThreeDeusGUI.exe
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\bin\Debug\ThreeDeusGUI.pdb
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\bin\Debug\ThreeDeusGUI.xml
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.DSi.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Form1.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Guides.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Menu.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Resources.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.vbproj.GenerateResource.Cache
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.Wii.resources
+C:\Users\lawre\onedrive\documents\visual studio 2010\Projects\ThreeDeusGUI\ThreeDeusGUI\obj\x86\Debug\ThreeDeusGUI.WiiU.resources
