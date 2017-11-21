@@ -1,6 +1,7 @@
 # ThreeDeusGUI
 A .NET GUI version of ThreeDeus by @jijipwn made in Visual Basic 2010
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Image of UI")
+
+![alt text](https://i.imgur.com/j2qiMKD.png "Image of UI")
 ## What is ThreeDeus?
 ThreeDeus is a quick downloading tool for Nintendo Homebrew purposes. It downloads everything you need and links you to the right guide you need for it. It has support for 3DS, Wii, Wii U, and DSi.
 ## Features:
